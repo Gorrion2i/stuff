@@ -1,0 +1,13 @@
+body{
+    background: #a1b201;
+}
+video{
+    width: 640px;
+    height: 340px;
+    background-color: black;
+    margin: 0;
+    border-radius: 10px;
+    padding: 7px;
+    box-shadow: 20px 0 px 0 px white;
+    margin-top: 130px;
+}
